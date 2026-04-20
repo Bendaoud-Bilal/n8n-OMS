@@ -1,2 +1,7 @@
 Back/node_modules/
 Front/node_modules/
+
+# Environment files
+.env
+.env.*
+!*.env.example
